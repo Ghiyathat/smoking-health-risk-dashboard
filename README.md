@@ -21,9 +21,6 @@ Chronic exposure to tobacco combustive products induces systemic oxidative stres
 * **Identify Dose-Response Inflection Points:** Contrast duration of exposure against daily cigarette volume across generational cohorts.
 * **Facilitate Clinical Decision Support:** Provide health analysts and care teams with dynamic filtering to profile high-risk multimorbid patient segments.
 
-### Target Stakeholders
-* **Public Health Program Managers:** For tailoring smoking cessation campaigns to high-risk demographic clusters.
-* **Clinical Risk Assessors & Epidemiologists:** For tracking how secondary risk factors (e.g., stage-specific BP risks) compound tobacco-induced organ pathology.
 
 ## 📖 Data Dictionary & Biomarker Definitions
 
